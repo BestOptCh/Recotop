@@ -450,7 +450,7 @@ header ul li a:hover {
     height: 150px;
 }
 
-.contact .form .inputBx input [type="submit"]{
+.contact .form .inputBx input[type="submit"]{
     display: inline-block;
     padding: 10px 20px;
     margin: 15px 0;
@@ -465,7 +465,7 @@ header ul li a:hover {
     letter-spacing: 1px;
 }
 
-.contact .form .inputBx input [type="submit"]:hover{
+.contact .form .inputBx input[type="submit"]:hover{
     background: #1eeeef;
     border: none;
     color: #050e2d;
